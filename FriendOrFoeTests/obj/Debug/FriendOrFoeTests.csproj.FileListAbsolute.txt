@@ -1,0 +1,10 @@
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\obj\Debug\FriendOrFoeTests.csprojResolveAssemblyReference.cache
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\FriendOrFoeTests.dll
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\FriendOrFoeTests.pdb
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\FriendOrFoe.exe
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\nunit.framework.dll
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\FriendOrFoe.pdb
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\bin\Debug\nunit.framework.xml
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\obj\Debug\FriendOrFoeTests.dll
+C:\Git\Kata\FriendOrFoe\FriendOrFoeTests\obj\Debug\FriendOrFoeTests.pdb

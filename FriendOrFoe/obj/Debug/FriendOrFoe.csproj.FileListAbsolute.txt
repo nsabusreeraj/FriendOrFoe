@@ -1,0 +1,5 @@
+C:\Git\Kata\FriendOrFoe\FriendOrFoe\bin\Debug\FriendOrFoe.exe.config
+C:\Git\Kata\FriendOrFoe\FriendOrFoe\bin\Debug\FriendOrFoe.exe
+C:\Git\Kata\FriendOrFoe\FriendOrFoe\bin\Debug\FriendOrFoe.pdb
+C:\Git\Kata\FriendOrFoe\FriendOrFoe\obj\Debug\FriendOrFoe.exe
+C:\Git\Kata\FriendOrFoe\FriendOrFoe\obj\Debug\FriendOrFoe.pdb
